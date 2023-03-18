@@ -10,7 +10,7 @@ ad-hoc task execution, network automation, and multi-node orchestration. Ansible
 changes like zero-downtime rolling updates with load balancers easy. More information on the Ansible `website <https://ansible.com/>`_.
 
 Design Principles
-=================
+===================
 
 *  Have an extremely simple setup process with a minimal learning curve.
 *  Manage machines quickly and in parallel.
